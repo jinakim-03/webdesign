@@ -1,0 +1,809 @@
+
+*{margin: 0; padding: 0; text-decoration: none; list-style: none;}
+
+
+
+#header_wrap{width: 100%; height: 1080px; margin: 0 auto;
+             background-image: url(../img/main_img.png); background-size: cover;}
+
+#header_wrap .nav_00{font-size: 25px; font-family: "Montserrat Alternates";
+                      font-style: normal; color: #FEF596; text-align: center;
+                      padding-top: 20px; padding-bottom: 45px;
+                      font-weight: 500; }
+.nav_00 > a{color: #FEF596; }
+
+
+#header_wrap .nav_1234{width: 1350px; height: 80px; margin: 0 auto; }
+
+
+#header_wrap .nav_01{width: 300px; height: 76px; font-size: 17px;
+                    float: left; margin-right: 50px; color: #fff;
+                    font-family: "Noto Sans KR"; font-style: normal; }
+#header_wrap .nav_01 .nav_01_01{width: 300px; height: 30px;
+                                border-bottom: 2px solid #fff; }
+
+#header_wrap .nav_01 .nav_01_02{width: 300px; height: 38px;
+                                text-align: right; }
+.nav_01 > a{color: #fff; }
+.nav_01 > a:hover{color: #FEF596; }
+
+
+
+#header_wrap .nav_02{width: 300px; height: 76px; font-size: 17px;
+                    float: left; margin-right: 50px; color: #fff;
+                    font-family: "Noto Sans KR"; font-style: normal;}
+#header_wrap .nav_02 .nav_02_01{width: 300px; height: 30px;
+                                border-bottom: 2px solid #fff; }
+#header_wrap .nav_02 .nav_02_02{width: 300px; height: 38px;
+                                text-align: right; }
+.nav_02 > a{color: #fff; }
+.nav_02 > a:hover{color: #FEF596; }
+
+
+#header_wrap .nav_03{width: 300px; height: 76px; font-size: 17px;
+                    float: left; margin-right: 50px; color: #fff;
+                    font-family: "Noto Sans KR"; font-style: normal;}
+#header_wrap .nav_03 .nav_03_01{width: 300px; height: 30px;
+                                border-bottom: 2px solid #fff; }
+#header_wrap .nav_03 .nav_03_02{width: 300px; height: 38px;
+                                text-align: right; }
+.nav_03 > a{color: #fff; }
+.nav_03 > a:hover{color: #FEF596; }
+
+
+#header_wrap .nav_04{width: 300px; height: 76px; font-size: 17px;
+                    float: right; color: #fff;
+                    font-family: "Noto Sans KR"; font-style: normal; }
+#header_wrap .nav_04 .nav_04_01{width: 300px; height: 30px;
+                                border-bottom: 2px solid #fff; }
+#header_wrap .nav_04 .nav_04_02{width: 300px; height: 38px;
+                                text-align: right; }
+.nav_04 > a{color: #fff; }
+.nav_04 > a:hover{color: #FEF596; }
+
+
+#header_wrap .scroll{width: 24px; height: 124px; margin-left: 80px;
+                    margin-top: 400px; }
+#header_wrap .scroll img{width: 20px; height: auto; }
+
+
+
+
+footer{height: 74px; width: 100%; background-color: #CDCDCD; border: 0px solid blue;}
+.logo{font-size: 25px; font-family: "Montserrat Alternates";
+      font-style: normal; color: #FEF596; padding-top: 10px;
+      text-align: center; font-weight: 500;}
+.right{font-size: 12px; font-family: "Noto Sans KR"; color: #545454;
+      text-align: center; font-weight: 100;}
+
+
+
+
+
+#text_wrap{width: 100%; height: 1000px; }
+#text{width: 1424px; height: 1000px; margin: 0 auto; }
+
+#text_wrap #text .text01{width: 1424px; height: 400px; padding-top: 250px;}
+.text01 h3{font-size: 23px; text-align: center; font-weight: normal;
+            font-family: "Montserrat Alternates"; font-style: italic;
+            line-height: 53px; }
+
+.text_box{width: 1px; height: 60px; border-right: 1px solid #707070;
+          margin: 0 auto; margin-bottom: 75px; opacity: 50%; }
+
+#text_wrap #text .text02{width: 1424px; height: 346px; }
+.text02 h4{font-size: 15px; text-align: center; font-weight: lighter;
+            font-family: "Noto Sans KR"; font-style: normal;
+            line-height: 40px; }
+
+
+
+
+
+
+.main_01{width: 500px; height: 1000px; margin: 0 auto; padding-top: 130px;
+        display: flex; justify-content: center; align-items: center;}
+.main_01 img{width: 900px; height: auto; margin: 0 auto; }
+
+.main_02{width: 500px; height: 700px; margin: 0 auto;
+        display: flex; justify-content: center; align-items: center;}
+.main_02 img{width: 900px; height: auto; margin: 0 auto; }
+
+.main_03{width: 500px; height: 1000px; margin: 0 auto; padding-top: 100px;
+        display: flex; justify-content: center; align-items: center;}
+.main_03 img{width: 900px; height: auto; margin: 0 auto; }
+
+.main_04{width: 500px; height: 900px; margin: 0 auto;
+        display: flex; justify-content: center; align-items: center;}
+.main_04 img{width: 900px; height: auto; margin: 0 auto;
+            margin-bottom: 300px; }
+
+
+
+
+
+.wrap{display: block; width: 1280px; height: 750px; border: 1px solid blue;}
+
+.tit1{position: relative; display: inline-block; border: 1px solid red;
+      height: 130px; left: 50%; top: 50%;
+      transform: translateX(-95%) translateY(-50%);}
+
+
+
+
+
+
+
+/*서브 01*/
+#header01_wrap{width: 100%; height: 1080px; margin: 0 auto;
+             background-image: url(../img/sub01_img.png); background-size: cover;}
+
+#header01_wrap .nav_00{font-size: 25px; font-family: "Montserrat Alternates";
+                      font-style: normal; color: #FEF596; text-align: center;
+                      padding-top: 20px; padding-bottom: 45px;
+                      font-weight: 500; }
+.nav_00 > a{color: #FEF596; }
+
+
+#header01_wrap .nav_1234{width: 1350px; height: 80px; margin: 0 auto; }
+
+
+#header01_wrap .nav_01{width: 300px; height: 76px; font-size: 17px;
+                    float: left; margin-right: 50px; color: #fff;
+                    font-family: "Noto Sans KR"; font-style: normal; }
+#header01_wrap .nav_01 .nav_01_01{width: 300px; height: 30px;
+                                border-bottom: 2px solid #fff; }
+
+#header01_wrap .nav_01 .nav_01_02{width: 300px; height: 38px;
+                                text-align: right; }
+.nav_01 > a{color: #fff; }
+.nav_01 > a:hover{color: #FEF596; }
+
+
+
+#header01_wrap .nav_02{width: 300px; height: 76px; font-size: 17px;
+                    float: left; margin-right: 50px; color: #fff;
+                    font-family: "Noto Sans KR"; font-style: normal;}
+#header01_wrap .nav_02 .nav_02_01{width: 300px; height: 30px;
+                                border-bottom: 2px solid #fff; }
+#header01_wrap .nav_02 .nav_02_02{width: 300px; height: 38px;
+                                text-align: right; }
+.nav_02 > a{color: #fff; }
+.nav_02 > a:hover{color: #FEF596; }
+
+
+#header01_wrap .nav_03{width: 300px; height: 76px; font-size: 17px;
+                    float: left; margin-right: 50px; color: #fff;
+                    font-family: "Noto Sans KR"; font-style: normal;}
+#header01_wrap .nav_03 .nav_03_01{width: 300px; height: 30px;
+                                border-bottom: 2px solid #fff; }
+#header01_wrap .nav_03 .nav_03_02{width: 300px; height: 38px;
+                                text-align: right; }
+.nav_03 > a{color: #fff; }
+.nav_03 > a:hover{color: #FEF596; }
+
+
+#header01_wrap .nav_04{width: 300px; height: 76px; font-size: 17px;
+                    float: right; color: #fff;
+                    font-family: "Noto Sans KR"; font-style: normal; }
+#header01_wrap .nav_04 .nav_04_01{width: 300px; height: 30px;
+                                border-bottom: 2px solid #fff; }
+#header01_wrap .nav_04 .nav_04_02{width: 300px; height: 38px;
+                                text-align: right; }
+.nav_04 > a{color: #fff; }
+.nav_04 > a:hover{color: #FEF596; }
+
+
+
+#header01_wrap .sub_01{width: 350px; height: 240px; margin: 0 auto;
+                        padding-left: 700px; }
+#header01_wrap .sub_01 img{width: 280px; height: auto; padding-top: 150px; }
+
+
+
+#header01_wrap .scroll{width: 24px; height: 124px; margin-left: 80px;
+                      margin-top: 160px; }
+#header01_wrap .scroll img{width: 20px; height: auto; }
+
+
+
+
+
+#text01_wrap{width: 100%; height: 1000px; }
+#text01{width: 1424px; height: 1000px; margin: 0 auto; }
+
+#text01_wrap #text01 .text01_01{width: 1424px;
+                                padding-top: 200px; padding-bottom: 50px; }
+#text01_wrap #text01 .text01_02{width: 1424px;padding-bottom: 50px;}
+#text01_wrap #text01 .text01_03{width: 1424px;padding-bottom: 50px;}
+#text01_wrap #text01 .text01_04{width: 1424px;padding-bottom: 500px; }
+
+.t1{font-size: 16px; text-align: center; font-weight: lighter;
+              font-family: "Noto Sans KR"; font-style: normal;
+              line-height: 50px; }
+
+
+
+
+#sub01_wrap{width: 100%; height: 600px;
+            background-image: url(../img/01_01.png);background-size: cover;}
+
+
+
+
+
+
+
+/*서브02*/
+#header02_wrap{width: 100%; height: 1080px; margin: 0 auto;
+             background-image: url(../img/sub02_img.png);background-size: cover; }
+
+#header02_wrap .nav_00{font-size: 25px; font-family: "Montserrat Alternates";
+                      font-style: normal; color: #FEF596; text-align: center;
+                      padding-top: 20px; padding-bottom: 45px;
+                      font-weight: 500; }
+.nav_00 > a{color: #FEF596; }
+
+
+#header02_wrap .nav_1234{width: 1350px; height: 80px; margin: 0 auto; }
+
+
+#header02_wrap .nav_01{width: 300px; height: 76px; font-size: 17px;
+                    float: left; margin-right: 50px; color: #fff;
+                    font-family: "Noto Sans KR"; font-style: normal; }
+#header02_wrap .nav_01 .nav_01_01{width: 300px; height: 30px;
+                                border-bottom: 2px solid #fff; }
+
+#header02_wrap .nav_01 .nav_01_02{width: 300px; height: 38px;
+                                text-align: right; }
+.nav_01 > a{color: #fff; }
+.nav_01 > a:hover{color: #FEF596; }
+
+
+
+#header02_wrap .nav_02{width: 300px; height: 76px; font-size: 17px;
+                    float: left; margin-right: 50px; color: #fff;
+                    font-family: "Noto Sans KR"; font-style: normal;}
+#header02_wrap .nav_02 .nav_02_01{width: 300px; height: 30px;
+                                border-bottom: 2px solid #fff; }
+#header02_wrap .nav_02 .nav_02_02{width: 300px; height: 38px;
+                                text-align: right; }
+.nav_02 > a{color: #fff; }
+.nav_02 > a:hover{color: #FEF596; }
+
+
+#header02_wrap .nav_03{width: 300px; height: 76px; font-size: 17px;
+                    float: left; margin-right: 50px; color: #fff;
+                    font-family: "Noto Sans KR"; font-style: normal;}
+#header02_wrap .nav_03 .nav_03_01{width: 300px; height: 30px;
+                                border-bottom: 2px solid #fff; }
+#header02_wrap .nav_03 .nav_03_02{width: 300px; height: 38px;
+                                text-align: right; }
+.nav_03 > a{color: #fff; }
+.nav_03 > a:hover{color: #FEF596; }
+
+
+#header02_wrap .nav_04{width: 300px; height: 76px; font-size: 17px;
+                    float: right; color: #fff;
+                    font-family: "Noto Sans KR"; font-style: normal; }
+#header02_wrap .nav_04 .nav_04_01{width: 300px; height: 30px;
+                                border-bottom: 2px solid #fff; }
+#header02_wrap .nav_04 .nav_04_02{width: 300px; height: 38px;
+                                text-align: right; }
+.nav_04 > a{color: #fff; }
+.nav_04 > a:hover{color: #FEF596; }
+
+
+
+
+#header02_wrap .sub_02{width: 400px; height: 340px; margin: 0 auto;
+                      padding-right: 400px; }
+#header02_wrap .sub_02 img{width: 360px; height: auto; padding-top: 160px; }
+
+
+
+#header02_wrap .scroll{width: 24px; height: 124px; margin-left: 80px;
+                      margin-top: 60px; }
+#header02_wrap .scroll img{width: 20px; height: auto; }
+
+
+
+
+
+/*서브02_pic_01*/
+#pic_wrap{width: 1200px; height: 6000px; background-color: #fff;
+          margin: 0 auto; padding-top: 350px; }
+
+
+#pic_01{width: 1200px; height: 1250px; margin: 0 auto; float: left; }
+
+#pic_01 .pic_01_01{width: 700px; height: auto; float: left;
+                  overflow: hidden; }
+.pic_01_01 img{width: 700px; height: auto; transition: 1.2s; }
+.pic_01_01 img:hover{transform: scale(1.1); }
+
+#pic_01 .pic_01_02{width: 483px; height: 200px; float: left;
+                  padding-left: 17px; }
+
+.pic_01_02 .t1{font-size: 25px; text-align: left; font-weight: 500;
+              font-family: "Montserrat Alternates"; font-style: normal;
+              line-height: 30px; }
+.pic_01_02 .t2{font-size: 20px; text-align: left; font-weight: normal;
+              font-family: "Noto Sans KR"; font-style: normal;
+              line-height: 50px; padding-bottom: 30px; }
+.pic_01_02 .t3{font-size: 12px; text-align: left; font-weight: 300;
+              font-family: "Noto Sans KR"; font-style: normal;
+              line-height: 20px; opacity: 95%; }
+
+#pic_01 .pic_01_03{width: 300px; height: auto; float: left;
+                    padding-left: 17px; padding-top: 340px; }
+.pic_01_03 img{width: 300px; height: auto; }
+
+
+
+
+
+/*서브02_pic_02*/
+
+#pic_02{width: 1200px; height: 1500px; margin: 0 auto; float: left;}
+
+#pic_02 .pic_02_01{width: 483px; height: 200px; float: left;
+                  padding-right: 500px; padding-bottom: 14px; }
+
+.pic_02_01 .t1{font-size: 25px; text-align: left; font-weight: 500;
+              font-family: "Montserrat Alternates"; font-style: normal;
+              line-height: 30px; }
+.pic_02_01 .t2{font-size: 20px; text-align: left; font-weight: normal;
+              font-family: "Noto Sans KR"; font-style: normal;
+              line-height: 50px; padding-bottom: 30px; }
+.pic_02_01 .t3{font-size: 12px; text-align: left; font-weight: 300;
+              font-family: "Noto Sans KR"; font-style: normal;
+              line-height: 20px; opacity: 95%; }
+
+
+#pic_02 .pic_02_02{width: 400px; height: auto; float: right;
+                    padding-left: 800px; padding-bottom: 17px; }
+.pic_02_02 img{width: 400px; height: auto; }
+
+#pic_02 .pic_02_03{width: 1200px; height: auto; float: left; overflow: hidden; }
+.pic_02_03 img{width: 1200px; height: auto; transition: 1.2s; }
+.pic_02_03 img:hover{transform: scale(1.1); }
+
+
+
+
+
+/*서브02_pic_03*/
+
+#pic_03{width: 1200px; height: 1150px; margin: 0 auto; float: left;
+        padding-top: 300px; }
+
+#pic_03 .pic_03_01{width: 1200px; height: auto; float: left; }
+
+#pic_03 .dume1 .dume2{width: 483px; height: 80px;
+                        float: left; padding-top: 150px; }
+#pic_03 .dume1 .dume2 .t1{font-size: 25px; text-align: left;
+                        font-weight: 500;
+                        font-family: "Montserrat Alternates";
+                        font-style: normal; line-height: 30px; }
+#pic_03 .dume1 .dume2 .t2{font-size: 20px; text-align: left;
+                        font-weight: normal;
+                        font-family: "Noto Sans KR"; font-style: normal;
+                        line-height: 50px; padding-bottom: 30px; }
+
+
+#pic_03 .pic_03_01 .dume2_01{width: 300px; height: auto; float: right; }
+#pic_03 .pic_03_01 .dume2_01 img{width: 300px; height: auto; float: right; }
+
+
+#pic_03 .pic_03_01 .dume2_02{width: 883px; height: auto;
+                            margin-right: 17px; float: right;
+                            overflow: hidden; }
+#pic_03 .pic_03_01 .dume2_02 img{width: 883px; height: auto; float: right;
+                                 transition: 1.2s; }
+#pic_03 .pic_03_01 .dume2_02 img:hover{transform: scale(1.1); }
+
+
+
+#pic_03 .pic_03_01 .dume1 .dume2_03{width: 483px;
+                        float: inherit;
+                        background-color: pink; }
+#pic_03 .pic_03_01 .dume1 .dume2_03 .t3{
+                            font-size: 12px; padding-top: 17px;
+                            text-align: left; padding-bottom: 17px;
+                            font-weight: 300; font-family: "Noto Sans KR";
+                            font-style: normal; line-height: 20px;
+                            opacity: 95%; float: right; }
+
+
+
+
+
+/*서브02_pic_04*/
+
+#pic_04{width: 1200px; height: 1800px; margin: 0 auto; float: left; }
+
+#pic_04 .pic_04_01{width: 483px; height:70px; float: left;
+                  padding-top: 70px; padding-bottom: 17px; }
+
+.pic_04_01 .t1{font-size: 25px; text-align: left; font-weight: 500;
+              font-family: "Montserrat Alternates"; font-style: normal;
+              line-height: 30px; }
+.pic_04_01 .t2{font-size: 20px; text-align: left; font-weight: normal;
+              font-family: "Noto Sans KR"; font-style: normal;
+              line-height: 50px; padding-bottom: 30px; }
+
+
+#pic_04 .pic_04_02{width: 1200px; height: auto;
+                  margin-bottom: 17px; overflow: hidden; }
+.pic_04_02 img{width: 1200px; height: auto; transition: 1.2s; }
+.pic_04_02 img:hover{transform: scale(1.1); }
+
+
+#pic_04 .pic34{width: 1200px; height: 1000px; }
+#pic_04 .pic_04_03{width: 400px; height:200px; float: left;
+                  margin-top: 270px; }
+.pic_04_03 .t3{font-size: 12px; text-align: left; font-weight: 300;
+              font-family: "Noto Sans KR"; font-style: normal;
+              line-height: 20px; opacity: 95%; }
+
+#pic_04 .pic_04_04{width: 500px; height: auto; float: right; }
+.pic_04_04 img{width: 500px; height: auto; float: right; }
+
+
+
+
+
+/*서브03*/
+#header03_wrap{width: 100%; height: 1080px; margin: 0 auto;
+             background-image: url(../img/sub03_img.png);background-size: cover;}
+
+#header03_wrap .nav_00{font-size: 25px; font-family: "Montserrat Alternates";
+                      font-style: normal; color: #FEF596; text-align: center;
+                      padding-top: 20px; padding-bottom: 45px;
+                      font-weight: 500; }
+.nav_00 > a{color: #FEF596; }
+
+
+#header03_wrap .nav_1234{width: 1350px; height: 80px; margin: 0 auto; }
+
+
+#header03_wrap .nav_01{width: 300px; height: 76px; font-size: 17px;
+                    float: left; margin-right: 50px; color: #fff;
+                    font-family: "Noto Sans KR"; font-style: normal; }
+#header03_wrap .nav_01 .nav_01_01{width: 300px; height: 30px;
+                                border-bottom: 2px solid #fff; }
+
+#header03_wrap .nav_01 .nav_01_02{width: 300px; height: 38px;
+                                text-align: right; }
+.nav_01 > a{color: #fff; }
+.nav_01 > a:hover{color: #FEF596; }
+
+
+
+#header03_wrap .nav_02{width: 300px; height: 76px; font-size: 17px;
+                    float: left; margin-right: 50px; color: #fff;
+                    font-family: "Noto Sans KR"; font-style: normal;}
+#header03_wrap .nav_02 .nav_02_01{width: 300px; height: 30px;
+                                border-bottom: 2px solid #fff; }
+#header03_wrap .nav_02 .nav_02_02{width: 300px; height: 38px;
+                                text-align: right; }
+.nav_02 > a{color: #fff; }
+.nav_02 > a:hover{color: #FEF596; }
+
+
+#header03_wrap .nav_03{width: 300px; height: 76px; font-size: 17px;
+                    float: left; margin-right: 50px; color: #fff;
+                    font-family: "Noto Sans KR"; font-style: normal;}
+#header03_wrap .nav_03 .nav_03_01{width: 300px; height: 30px;
+                                border-bottom: 2px solid #fff; }
+#header03_wrap .nav_03 .nav_03_02{width: 300px; height: 38px;
+                                text-align: right; }
+.nav_03 > a{color: #fff; }
+.nav_03 > a:hover{color: #FEF596; }
+
+
+#header03_wrap .nav_04{width: 300px; height: 76px; font-size: 17px;
+                    float: right; color: #fff;
+                    font-family: "Noto Sans KR"; font-style: normal; }
+#header03_wrap .nav_04 .nav_04_01{width: 300px; height: 30px;
+                                border-bottom: 2px solid #fff; }
+#header03_wrap .nav_04 .nav_04_02{width: 300px; height: 38px;
+                                text-align: right; }
+.nav_04 > a{color: #fff; }
+.nav_04 > a:hover{color: #FEF596; }
+
+
+
+#header03_wrap .sub_03{width: 350px; height: 240px; margin: 0 auto;
+                      padding-left: 550px; }
+#header03_wrap .sub_03 img{width: 230px; height: auto; padding-top: 350px; }
+
+
+
+#header03_wrap .scroll{width: 24px; height: 124px; margin-left: 80px;
+                      margin-top: 160px; }
+#header03_wrap .scroll img{width: 20px; height: auto; }
+
+
+
+
+
+#process{width: 1200px; height: 3000px; margin: 0 auto; }
+#process .empty_01{width: 1200px; height: 220px; }
+
+#process_01{width: 390px; height: 2500px; padding-top: 60px;
+            margin: 0 auto; float: left; border-right: solid 2px #FEF596; }
+#process_01 .Q{width: 404px; height: 415px;
+              margin: 0 auto; justify-content: center;
+              align-items: center; }
+
+#process_01 .process{width: 404px; height: 200px; padding-left: 23px; }
+.process .Q1{font-size: 40px; color: #707070;
+            font-family: "Noto Sans KR"; font-style: normal;
+            font-weight: bold; }
+
+#process_01 .sub{width: 404px; height: 245px; padding-left: 23px; }
+#process_01 .sub .Q2{font-size: 14px; color: #707070; opacity: 73%;
+            font-family: "Noto Sans KR"; font-style: normal;
+            font-weight: lighter; }
+
+
+
+
+
+
+#process_02{width: 750px; height: 1000px; background-color: #fff;
+            float: right; padding-top: 480px; }
+#process_02 .arch_01{width: 570px; height: 370px; float: right;
+                      padding-bottom: 40px; }
+.arch_01 img{width: 500px; height: auto; padding-left: 30px; }
+
+
+#process_02 .text{width: 700px; height: 800px; float: left; }
+#process_02 .text .text1{padding-bottom: 30px; }
+#process_02 .text .text_01{font-size: 15px; color: #222222;
+                          opacity: 80%; font-family: "Noto Sans KR";
+                          font-style: normal; font-weight: lighter;
+                          line-height: 38px; }
+
+#process_02 .text .text2{padding-bottom: 30px; }
+#process_02 .text .text_02{font-size: 15px; color: #222222;
+                          opacity: 80%; font-family: "Noto Sans KR";
+                          font-style: normal; font-weight: lighter;
+                          line-height: 38px; }
+
+#process_02 .text .text_03{font-size: 15px; color: #222222;
+                          opacity: 80%; font-family: "Noto Sans KR";
+                          font-style: normal; font-weight: lighter;
+                          line-height: 38px; }
+
+
+.arch_02{width: 750px; height: 520px; }
+.arch_02 img{width: 700px; height: auto; }
+
+.arch_03{width: 750px; height: auto; padding-top: 400px; }
+.arch_03 img{width: 700px; height: auto; padding-top: 500px; }
+
+
+
+
+
+
+/*서브04*/
+#header04_wrap{width: 100%; height: 1080px; margin: 0 auto;
+             background-image: url(../img/sub04_img.png);background-size: cover;}
+
+#header04_wrap .nav_00{font-size: 25px; font-family: "Montserrat Alternates";
+                      font-style: normal; color: #FEF596; text-align: center;
+                      padding-top: 20px; padding-bottom: 45px;
+                      font-weight: 500; }
+.nav_00 > a{color: #FEF596; }
+
+
+#header04_wrap .nav_1234{width: 1350px; height: 80px; margin: 0 auto; }
+
+
+#header04_wrap .nav_01{width: 300px; height: 76px; font-size: 17px;
+                    float: left; margin-right: 50px; color: #fff;
+                    font-family: "Noto Sans KR"; font-style: normal; }
+#header04_wrap .nav_01 .nav_01_01{width: 300px; height: 30px;
+                                border-bottom: 2px solid #fff; }
+
+#header04_wrap .nav_01 .nav_01_02{width: 300px; height: 38px;
+                                text-align: right; }
+.nav_01 > a{color: #fff; }
+.nav_01 > a:hover{color: #FEF596; }
+
+
+
+#header04_wrap .nav_02{width: 300px; height: 76px; font-size: 17px;
+                    float: left; margin-right: 50px; color: #fff;
+                    font-family: "Noto Sans KR"; font-style: normal;}
+#header04_wrap .nav_02 .nav_02_01{width: 300px; height: 30px;
+                                border-bottom: 2px solid #fff; }
+#header04_wrap .nav_02 .nav_02_02{width: 300px; height: 38px;
+                                text-align: right; }
+.nav_02 > a{color: #fff; }
+.nav_02 > a:hover{color: #FEF596; }
+
+
+#header04_wrap .nav_03{width: 300px; height: 76px; font-size: 17px;
+                    float: left; margin-right: 50px; color: #fff;
+                    font-family: "Noto Sans KR"; font-style: normal;}
+#header04_wrap .nav_03 .nav_03_01{width: 300px; height: 30px;
+                                border-bottom: 2px solid #fff; }
+#header04_wrap .nav_03 .nav_03_02{width: 300px; height: 38px;
+                                text-align: right; }
+.nav_03 > a{color: #fff; }
+.nav_03 > a:hover{color: #FEF596; }
+
+
+#header04_wrap .nav_04{width: 300px; height: 76px; font-size: 17px;
+                    float: right; color: #fff;
+                    font-family: "Noto Sans KR"; font-style: normal; }
+#header04_wrap .nav_04 .nav_04_01{width: 300px; height: 30px;
+                                border-bottom: 2px solid #fff; }
+#header04_wrap .nav_04 .nav_04_02{width: 300px; height: 38px;
+                                text-align: right; }
+.nav_04 > a{color: #fff; }
+.nav_04 > a:hover{color: #FEF596; }
+
+
+
+
+#header04_wrap .sub_04{width: 500px; height: 240px; margin: 0 auto;
+                      padding-left: 550px; }
+#header04_wrap .sub_04 img{width: 500px; height: auto; padding-top: 300px; }
+
+
+
+#header04_wrap .scroll{width: 24px; height: 124px; margin-left: 80px;
+                      margin-top: 160px; }
+#header04_wrap .scroll img{width: 20px; height: auto; }
+
+
+
+
+
+
+/*partner*/
+#MR{width: 1200px; height: 1300px; background-color: #fff;
+    margin: 0 auto; margin-top: 250px; }
+
+#MR #M{width: 1200px; height: 525px; background-color: #fff; }
+#MR #M .Mi{width: 350px; height: auto; float: left; overflow: hidden;
+          border-bottom-right-radius: 180px; }
+#M .Mi img{width: 350px; height: auto; transition: 1.2s; }
+#M .Mi img:hover{transform: scale(1.1); }
+
+#M .Leo_Marmol{width: 500px; height: 56px; background-color: #fff;
+               margin-top: 70px; float: left; border-bottom: 4px solid #FEF596; }
+#M .Leo_Marmol .Leo{width: 200px; height: 60px;
+                    font-size: 30px; font-family: "Montserrat Alternates";
+                    font-style: normal; color: #1C1C1C; float: left;
+                    font-weight: 500; opacity: 80%; padding-left: 20px;
+                    margin-top: 14px; }
+#M .Leo_Marmol .partner{width: 200px; height: 60px;
+                    font-size: 14px; font-family: "Noto Sans KR";
+                    font-style: normal; color: #707070;
+                    font-weight: 100; float: right;
+                    margin-top: 28px; text-align: right;
+                    padding-right: 20px; }
+
+#M .leo{width: 500px; height: 300px; padding-top: 80px;
+        margin-right: 220px; float: right; }
+#M .leo .leo_01{font-size: 13px; font-family: "Noto Sans KR";
+                font-style: normal; color: #707070;
+                font-weight: 300; float: right;
+                text-align: left; }
+#M .leo .leo_02{font-size: 13px; font-family: "Noto Sans KR";
+                font-style: normal; color: #707070;
+                font-weight: 300; float: right;
+                text-align: left; margin-top: 20px; }
+
+
+#MR #R{width: 1200px; height: 525px; background-color: #fff;
+      margin-top: 100px; }
+#MR #R .Ri{width: 350px; height: auto; float: right; overflow: hidden;
+          border-top-left-radius: 180px; }
+#R .Ri img{width: 350px; height: auto; transition: 1.2s; }
+#R .Ri img:hover{transform: scale(1.1); }
+
+#R .Ron_Radziner{width: 500px; height: 56px; background-color: #fff;
+                margin-top: 70px; float: right;
+                border-bottom: 4px solid #FEF596; }
+#R .Ron_Radziner .Ron{width: 250px; height: 60px;
+                    font-size: 30px; font-family: "Montserrat Alternates";
+                    font-style: normal; color: #1C1C1C; float: left;
+                    font-weight: 500; opacity: 80%; padding-left: 20px;
+                    margin-top: 14px; }
+#R .Ron_Radziner .dpartner{width: 200px; height: 60px;
+                        font-size: 14px; font-family: "Noto Sans KR";
+                        font-style: normal; color: #707070;
+                        font-weight: 100; float: right;
+                        margin-top: 28px; text-align: right;
+                        padding-right: 20px; }
+
+#R .ron{width: 500px; height: 300px; padding-top: 80px;
+        margin-left: 220px; float: left; }
+#R .ron .ron_01{font-size: 13px; font-family: "Noto Sans KR";
+                font-style: normal; color: #707070;
+                font-weight: 300; float: right;
+                text-align: left; }
+#R .ron .ron_02{font-size: 13px; font-family: "Noto Sans KR";
+                font-style: normal; color: #707070;
+                font-weight: 300; float: right;
+                text-align: left; margin-top: 20px; }
+
+
+
+/*Company Core*/
+#Core{width: 940px; height: 1200px; margin: 0 auto; margin-top: 140px;
+      background-color: #fff; }
+#Core .Company{font-size: 30px; font-family: "Montserrat Alternates";
+              font-style: normal; color: #1C1C1C;
+              font-weight: 500; opacity: 80%; text-align: center; }
+
+#Core .core{width: 1200px; height: 1500px; margin-top: 120px; }
+#Core .core .core_01{width: 220px; height: 1000px; float: left; }
+#Core .core .core_01 img{width: 220px; height: auto; }
+
+#Core .core .core_01 .core_text{font-size: 12.5px;
+                font-family: "Noto Sans KR";
+                font-style: normal; color: #707070;
+                font-weight: 200;
+                text-align: left; margin-top: 14px; }
+
+
+#Core .core .core_02{width: 220px; height: 1000px; float: left;
+                    margin-left: 20px; margin-top: 100px; }
+#Core .core .core_02 img{width: 220px; height: auto; }
+#Core .core .core_02 .core_text{font-size: 12.5px;
+                font-family: "Noto Sans KR";
+                font-style: normal; color: #707070;
+                font-weight: 200;
+                text-align: left; margin-top: 14px; }
+
+
+#Core .core .core_03{width: 220px; height: 1000px; float: left;
+                    margin-left: 20px; margin-top: 200px; }
+#Core .core .core_03 img{width: 220px; height: auto; }
+#Core .core .core_03 .core_text{font-size: 12.5px;
+                                font-family: "Noto Sans KR";
+                                font-style: normal; color: #707070;
+                                font-weight: 200;
+                                text-align: left; margin-top: 14px; }
+
+
+#Core .core .core_04{width: 220px; height: 1000px; float: left;
+                    margin-left: 20px; margin-top: 300px; }
+#Core .core .core_04 img{width: 220px; height: auto; }
+#Core .core .core_04 .core_text{font-size: 12.5px;
+                                font-family: "Noto Sans KR";
+                                font-style: normal; color: #707070;
+                                font-weight: 200;
+                                text-align: left; margin-top: 14px; }
+
+
+
+
+/*final*/
+.line{width: 10px; height: 70px; border-left: 1px solid #707070;
+      margin: 0 auto; margin-top: 100px; opacity: 70%; }
+
+#final_wrap{width: 100%; height: 500px; }
+#final{width: 1424px; height: 1000px; margin: 0 auto; }
+
+#final_wrap #final .final_01{width: 1424px; padding-top: 100px;
+                            padding-bottom: 50px; }
+#final_wrap #final .final_02{width: 1424px; }
+
+.f01{font-size: 14px; text-align: center; font-weight: lighter;
+      font-family: "Noto Sans KR"; font-style: normal;
+      line-height: 36px; }
+
+
+
+#foot_wrap{width: 100%; height: 600px;
+            background-image: url(../img/04_07.png);background-size: cover;}
